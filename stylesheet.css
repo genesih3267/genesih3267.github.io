@@ -24,20 +24,17 @@ li {
   right:0%; 
   bottom:75; 
 }
-#{ 
+#ring{ 
   position: fixed; 
   right:0%; 
   bottom:10; 
 }
-#{ 
+#ming{ 
   position: fixed; 
   right:0%; 
   bottom:0; 
 }
-{ 
-  position: inline-block; 
-  right:0%; 
-  bottom:80; 
-
+ 
+  
 
 
