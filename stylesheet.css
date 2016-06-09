@@ -15,29 +15,29 @@ li {
   bottom:100;
 }
 #ding{ 
-   position: fixed; 
+   position: block; 
    right:0%; 
-   bottom:10; 
+   top:10; 
 }
 #bing{ 
-  position: fixed; 
+  position: block; 
   right:0%; 
-  bottom:30; 
+  top:30; 
 }
 #bing{ 
-  position: fixed; 
+  position: block; 
   right:0%; 
   bottom:110; 
 }
 #ring{ 
   position: fixed; 
   right:0%; 
-  bottom:0; 
+  top:0; 
 }
 #ming{ 
   position: fixed; 
   right:0%; 
-  bottom:80; 
+  top:80; 
 
 
 
