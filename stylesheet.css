@@ -10,27 +10,27 @@ li {
   display: inline-block;
 }
 #my{
-  position: inline-block;
+  position: fixed;
   right:0%;
   bottom:100;
 }
 #ding{ 
-   position: inline-block; 
+   position: fixed; 
    right:0%; 
    bottom:50; 
 }
 #bing{ 
-  position: inline-block; 
+  position: fixed; 
   right:0%; 
   bottom:75; 
 }
 #{ 
-  position: inline-block; 
+  position: fixed; 
   right:0%; 
   bottom:10; 
 }
 #{ 
-  position: inline-block; 
+  position: fixed; 
   right:0%; 
   bottom:0; 
 }
