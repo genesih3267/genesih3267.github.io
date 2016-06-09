@@ -9,3 +9,7 @@ img {
 li {
   display: inline-block;
 }
+#my{
+  position: fixed;
+  right:45%;
+  bottom:100;
