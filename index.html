@@ -25,7 +25,7 @@ var speech='Guess my number (from 1 to 100)';
 
 function process(mystery) {
 var guess=document.forms.guessquiz.guess.value;
-var speech='"'+guess+ '" does not make sense to me.';
+var speech='"'+guess+ '" i dont understand .';
 document.forms.guessquiz.guess.value='';
 
 if (guess==mystery)
@@ -63,17 +63,11 @@ document.forms.guessquiz.prompt.value=speech; document.forms.guessquiz.guess.foc
 <TR>
 <TD BGCOLOR="#004080">
 <FONT COLOR="#ffffff" FACE="Arial"><B>GUESS MY NUMBER (1 - 100)</B></FONT>
-</TD>
-</TR>
-<TR>
-<TD>
 <CENTER>
 <INPUT TYPE="text" NAME="prompt" SIZE="31" MAXLENGTH="40" VALUE="Guess my number (from 1 to 100)"><BR>
 <INPUT TYPE="text" NAME="guess" SIZE="3" MAXLENGTH="3" VALUE="">
 <INPUT TYPE="button" VALUE="Guess" onClick='process(guessme)'>
 </CENTER>
-</TD>
-</TR>
 </TABLE>
 </CENTER>
 </FORM>
