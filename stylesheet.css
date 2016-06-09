@@ -17,27 +17,27 @@ li {
 #ding{ 
    position: fixed; 
    right:0%; 
-   bottom:250; 
+   bottom:10; 
 }
 #bing{ 
   position: fixed; 
   right:0%; 
-  bottom:50; 
+  bottom:30; 
 }
 #bing{ 
   position: fixed; 
   right:0%; 
-  bottom:100; 
+  bottom:110; 
 }
 #ring{ 
   position: fixed; 
   right:0%; 
-  bottom:100; 
+  bottom:0; 
 }
 #ming{ 
   position: fixed; 
   right:0%; 
-  bottom:100; 
+  bottom:80; 
 
 
 
