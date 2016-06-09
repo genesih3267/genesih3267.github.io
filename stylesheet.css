@@ -10,32 +10,32 @@ li {
   display: inline-block;
 }
 #my{
-  position: fixed;
+  position: inline-block;
   right:0%;
   bottom:100;
 }
 #ding{ 
-   position: block; 
+   position: inline-block; 
    right:0%; 
    top:10; 
 }
 #bing{ 
-  position: block; 
+  position: inline-block; 
   right:0%; 
   top:30; 
 }
 #bing{ 
-  position: block; 
+  position: inline-block; 
   right:0%; 
   bottom:110; 
 }
 #ring{ 
-  position: fixed; 
+  position: inline-block; 
   right:0%; 
   top:0; 
 }
 #ming{ 
-  position: fixed; 
+  position: inline-block; 
   right:0%; 
   top:80; 
 
