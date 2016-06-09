@@ -17,17 +17,17 @@ li {
 #ding{ 
    position: inline-block; 
    right:0%; 
-   bottom:10; 
+   bottom:50; 
 }
 #bing{ 
   position: inline-block; 
   right:0%; 
-  bottom:30; 
+  bottom:75; 
 }
 #{ 
   position: inline-block; 
   right:0%; 
-  bottom:110; 
+  bottom:10; 
 }
 #{ 
   position: inline-block; 
