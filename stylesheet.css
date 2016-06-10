@@ -7,7 +7,7 @@ img {
 }
 
 li {
-  display: inline-block;
+  display: relative;
 }
 #my{
   position: fixed;
