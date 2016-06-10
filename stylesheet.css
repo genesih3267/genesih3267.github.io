@@ -14,15 +14,10 @@ li {
   right:0%;
   bottom:45;
 }
-#ding{ 
+#group{ 
    position: fixed; 
    right:0%; 
    bottom:50; 
-}
-#bing{ 
-  position: fixed; 
-  right:0%; 
-  bottom:75; 
 }
 #ring{
 position: fixed; 
