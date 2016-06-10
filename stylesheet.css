@@ -9,25 +9,10 @@ img {
 li {
   display: relative;
 }
-#my{
-  position: fixed;
-  right:0%;
-  bottom:45;
-}
 #group{ 
    position: fixed; 
    right:0%; 
    bottom:50; 
-}
-#ring{
-position: fixed; 
-right:0%; 
-bottom:75%; 
-}
-#ming{ 
-  position: fixed; 
-  right:0%; 
-  bottom:50; 
 }
  
   
