@@ -14,7 +14,9 @@ li {
    right:0%; 
    bottom:50; 
 }
- 
+#ding, #my, #bing, #ming, #ring {
+  display: block;
+}
   
 
 
